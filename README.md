@@ -15,6 +15,10 @@ API con Spring Framework, y la base de datos de MySQL ***EjPROut7***
 descarga [el archivo .zip](https://github.com/cifp-villa-aguimes/pro-ut7-2023/archive/refs/heads/main.zip "UT7 Source Code para actividades")
 2. Importa/Abre el directorio del proyecto en tu IDE favorito
 3. Ejecuta el script ***.bd/EjPROut7_Script.sql*** en tu herramienta o IDE de administración de bases de datos, o por consola
+4. Revisa el archivo pom.xml para que se ajuste a tú version de JAVA  
+`<properties>
+	<java.version>20</java.version>
+</properties>`
 
 ### Uso
 
